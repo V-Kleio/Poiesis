@@ -10,15 +10,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#-overview)
-- [Preview](#-preview)
-- [License](#-license)
-- [Author](#-author)
-
----
-
 ## Overview
 
 Welcome to my digital compendium. This repository is my sketchbook, my lab, and my journey as I explore the beauty of code.
@@ -42,7 +33,7 @@ The artistic outputs (images, videos, etc.) are licensed under **Creative Common
 
 ---
 
-## 👤 Author
+## Author
 
 <p align="center"> <a href="https://github.com/V-Kleio"> <img src="https://avatars.githubusercontent.com/u/101655336?v=4" width="100px;" style="border-radius: 50%;" alt="V-Kleio"/> <br /> <sub><b>Rafael Marchel Darma Wijaya</b></sub> </a> </p>
 <div align="center" style="color:#6A994E;"> 🌿 Crafted with care | 2025 🌿</div>
